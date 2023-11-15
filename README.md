@@ -10,7 +10,7 @@
 
 Métrica que revela quantos clientes cancelam um serviço dentro de um período específico.
 
-[Link para o projeto completo]([https://github.com/Tha-Helena/Analise_fraude_cartoes_de_credito/blob/main/Projeto_03_Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb](https://github.com/Tha-Helena/Churn_Prediction/blob/main/Projeto_04_Churn_Prediction_para_uma_empresa_de_Telecomunica%C3%A7%C3%B5es.ipynb))
+[Link para o projeto completo](https://github.com/Tha-Helena/Churn_Prediction/blob/main/Projeto_04_Churn_Prediction_para_uma_empresa_de_Telecomunica%C3%A7%C3%B5es.ipynb)
 
 **Links para me acharem:**
 * [Blog](https://github.com/Tha-Helena)
